@@ -79,12 +79,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1649,
+                  "duration": 1342,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:24.944Z",
+                  "startTime": "2025-04-02T21:04:42.540Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -99,7 +99,7 @@
           ],
           "id": "d5ed79a6b333c2ba7209-755cae3c159fbc80ff6b",
           "file": "auth.spec.js",
-          "line": 2,
+          "line": 3,
           "column": 5
         },
         {
@@ -118,12 +118,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1791,
+                  "duration": 1526,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:24.944Z",
+                  "startTime": "2025-04-02T21:04:42.542Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -142,7 +142,7 @@
           "column": 5
         },
         {
-          "title": "shadow DOM elements are accessible",
+          "title": "Apple button opens the Apple Sign-In page in a new tab",
           "ok": true,
           "tags": [],
           "tests": [
@@ -157,17 +157,17 @@
                   "workerIndex": 2,
                   "parallelIndex": 2,
                   "status": "passed",
-                  "duration": 1494,
+                  "duration": 1931,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:24.944Z",
+                  "startTime": "2025-04-02T21:04:42.541Z",
                   "attachments": [
                     {
                       "name": "trace",
                       "contentType": "application/zip",
-                      "path": "/Users/milu/Desktop/Linq/test-results/auth-shadow-DOM-elements-are-accessible-chromium/trace.zip"
+                      "path": "/Users/milu/Desktop/Linq/test-results/auth-Apple-button-opens-the-Apple-Sign-In-page-in-a-new-tab-chromium/trace.zip"
                     }
                   ]
                 }
@@ -175,9 +175,87 @@
               "status": "expected"
             }
           ],
-          "id": "d5ed79a6b333c2ba7209-fd88d015eeeb35d1360e",
+          "id": "d5ed79a6b333c2ba7209-3b936fddc8e388a51b47",
           "file": "auth.spec.js",
-          "line": 28,
+          "line": 27,
+          "column": 5
+        },
+        {
+          "title": "Google button opens the Google Sign-In page in a new tab",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "parallelIndex": 3,
+                  "status": "passed",
+                  "duration": 2018,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-04-02T21:04:42.542Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/Users/milu/Desktop/Linq/test-results/auth-Google-button-opens-t-7998d-e-Sign-In-page-in-a-new-tab-chromium/trace.zip"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d5ed79a6b333c2ba7209-136504166300e2c5fddd",
+          "file": "auth.spec.js",
+          "line": 42,
+          "column": 5
+        },
+        {
+          "title": "LinkedIn button opens the LinkedIn Sign-In page in a new tab",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1367,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-04-02T21:04:44.083Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/Users/milu/Desktop/Linq/test-results/auth-LinkedIn-button-opens-cd7ed-n-Sign-In-page-in-a-new-tab-chromium/trace.zip"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d5ed79a6b333c2ba7209-dc6621034ae412e0bbfa",
+          "file": "auth.spec.js",
+          "line": 56,
           "column": 5
         }
       ]
@@ -201,15 +279,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 3,
-                  "parallelIndex": 3,
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1481,
+                  "duration": 1186,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:24.945Z",
+                  "startTime": "2025-04-02T21:04:44.266Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -240,15 +318,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 3,
-                  "parallelIndex": 3,
+                  "workerIndex": 2,
+                  "parallelIndex": 2,
                   "status": "passed",
-                  "duration": 1958,
+                  "duration": 1305,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:26.592Z",
+                  "startTime": "2025-04-02T21:04:44.705Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -263,7 +341,7 @@
           ],
           "id": "d8c6e802a6d18a7eb3e2-abdf1983aceb57dc07f8",
           "file": "welcome.spec.js",
-          "line": 12,
+          "line": 11,
           "column": 5
         },
         {
@@ -279,15 +357,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
-                  "parallelIndex": 2,
+                  "workerIndex": 3,
+                  "parallelIndex": 3,
                   "status": "passed",
-                  "duration": 1098,
+                  "duration": 1136,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T20:35:26.608Z",
+                  "startTime": "2025-04-02T21:04:44.795Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -302,7 +380,7 @@
           ],
           "id": "d8c6e802a6d18a7eb3e2-3db0970f107431691224",
           "file": "welcome.spec.js",
-          "line": 21,
+          "line": 20,
           "column": 5
         }
       ]
@@ -310,9 +388,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-04-02T20:35:24.594Z",
-    "duration": 4003.063,
-    "expected": 6,
+    "startTime": "2025-04-02T21:04:42.187Z",
+    "duration": 3857.297,
+    "expected": 8,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
