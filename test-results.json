@@ -79,12 +79,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1342,
+                  "duration": 1472,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:42.540Z",
+                  "startTime": "2025-04-02T21:32:55.731Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -118,12 +118,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1526,
+                  "duration": 1378,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:42.542Z",
+                  "startTime": "2025-04-02T21:32:55.731Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -157,12 +157,12 @@
                   "workerIndex": 2,
                   "parallelIndex": 2,
                   "status": "passed",
-                  "duration": 1931,
+                  "duration": 1998,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:42.541Z",
+                  "startTime": "2025-04-02T21:32:55.731Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -196,12 +196,12 @@
                   "workerIndex": 3,
                   "parallelIndex": 3,
                   "status": "passed",
-                  "duration": 2018,
+                  "duration": 1945,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:42.542Z",
+                  "startTime": "2025-04-02T21:32:55.734Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -232,15 +232,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 0,
-                  "parallelIndex": 0,
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1367,
+                  "duration": 1123,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:44.083Z",
+                  "startTime": "2025-04-02T21:32:57.295Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -256,6 +256,53 @@
           "id": "d5ed79a6b333c2ba7209-dc6621034ae412e0bbfa",
           "file": "auth.spec.js",
           "line": 56,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "responsiveness.spec.js",
+      "file": "responsiveness.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Page should be responsive in mobile view",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1088,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-04-02T21:32:57.404Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/Users/milu/Desktop/Linq/test-results/responsiveness-Page-should-be-responsive-in-mobile-view-chromium/trace.zip"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "4eba656759be66cd8116-86d7d4ff32243ef4d5dc",
+          "file": "responsiveness.spec.js",
+          "line": 3,
           "column": 5
         }
       ]
@@ -279,15 +326,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
-                  "parallelIndex": 1,
+                  "workerIndex": 3,
+                  "parallelIndex": 3,
                   "status": "passed",
-                  "duration": 1186,
+                  "duration": 896,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:44.266Z",
+                  "startTime": "2025-04-02T21:32:57.973Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -321,12 +368,12 @@
                   "workerIndex": 2,
                   "parallelIndex": 2,
                   "status": "passed",
-                  "duration": 1305,
+                  "duration": 1181,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:44.705Z",
+                  "startTime": "2025-04-02T21:32:58.028Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -357,15 +404,15 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 3,
-                  "parallelIndex": 3,
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1136,
+                  "duration": 914,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-04-02T21:04:44.795Z",
+                  "startTime": "2025-04-02T21:32:58.543Z",
                   "attachments": [
                     {
                       "name": "trace",
@@ -388,9 +435,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-04-02T21:04:42.187Z",
-    "duration": 3857.297,
-    "expected": 8,
+    "startTime": "2025-04-02T21:32:55.382Z",
+    "duration": 4106.997,
+    "expected": 9,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
