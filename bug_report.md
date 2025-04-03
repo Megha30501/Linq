@@ -26,8 +26,10 @@ When a user is logged in and updates their first or last name, the system does n
 ### **Suggested Fix:**  
 - Implement **regex-based validation** to allow only alphabetic characters and spaces.  
 - Enforce **character limits** of **2–50 characters**.  
-- Provide **error messages** for invalid input.  
+- Provide **error messages** for invalid input.
 
+<img width="1470" alt="Screenshot 2025-04-02 at 7 39 20 PM" src="https://github.com/user-attachments/assets/684af858-1f18-42f9-b41a-2dfc31b930b9" />
+  
 ---
 
 ## **Bug ID:** BUG-002  
@@ -58,6 +60,8 @@ The system does not validate the **Job Title, Organization, or Location** fields
 - **Location Accuracy:** Use dynamic APIs for real-world location data.  
 - **Custom Locations:** Decide if users can enter custom locations.  
 - **Test Edge Cases:** Ensure the field works for city names, full addresses, and abbreviations.  
+
+<img width="1470" alt="Screenshot 2025-04-02 at 7 50 41 PM" src="https://github.com/user-attachments/assets/752261dc-c9b4-4131-8294-814f50d8f997" />
 
 ---
 
